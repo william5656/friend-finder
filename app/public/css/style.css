@@ -1,0 +1,50 @@
+.title{
+
+    font-size: 80px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+}
+
+.mainTitleContent{
+    background:rgba(179, 162, 219, 0.5);
+    padding: 50px 40px;
+    
+}
+
+.background1{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fas{
+    color: #ffff66;
+}
+
+.a{
+    color: white;
+}
+
+.p2Title{
+    border-bottom: 1px solid #EAEAEA;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.division{
+    margin-bottom: 2px;
+    border-bottom: 1px solid #EAEAEA;
+}
+
+h5{
+    margin-top: 40px;
+}
+
+.page-submit{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#usermatch{
+    width: 100%
+}
